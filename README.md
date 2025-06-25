@@ -146,8 +146,8 @@ import (
     "log"
     "time"
 
-    "github.com/namamu/dbtx"
-    _ "github.com/lib/pq" // driver sesuai database kamu
+    "github.com/gogaruda/dbtx"
+    _ "github.com/lib/pq"
 )
 
 func main() {
